@@ -1,5 +1,3 @@
-# Plant-ID-Game
-A game to practice plant ID using clues!
 # Plant ID Challenge
 
 Plant ID Challenge is a browser-based guessing game built with plain HTML, CSS, and vanilla JavaScript. Players receive three clues about a plant species and have up to three tries to identify it.
